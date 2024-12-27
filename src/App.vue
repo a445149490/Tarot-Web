@@ -1,5 +1,5 @@
 <template>
-  <Header title="塔罗牌占卜" desc="" />
+  <Header title="小妖精塔罗牌占卜" desc="" />
   <main><RouterView /></main>
   <Footer />
 </template>

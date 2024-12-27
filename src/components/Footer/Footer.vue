@@ -3,7 +3,6 @@
     <main class="m-auto pt-4 flex flex-col-reverse md:flex-row justify-between gap-6 md:gap-16 w-full max-w-[1666px] border-t">
       <section class="[&>p]:text-xs [&>p]:w-full [&>p]:py-[6px] [&>p]:text-center md:[&>p]:text-left [&>p>a]:text-slate-400">
         <p>塔罗牌占卜 由 <a href="https://www.xyjzy.com" target="_blank" title="小妖精">小妖精</a> 提供技术支持</p>
-          <p><a href="https://tool.xyjzy.com" target="_blank" title="小妖精工具">小妖精工具</a> </p>
       
       </section>
       <section class="flex flex-col items-center gap-2">

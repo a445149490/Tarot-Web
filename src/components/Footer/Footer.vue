@@ -7,9 +7,7 @@
       </section>
       <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
-          <a title="打赏站长" target="_blank" href="https://www.xyjzy.com.com/">
-          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/uxiaohan">
-            <img class="w-8" src="@/assets/images/footer/github.svg" />
+          <a title="打赏站长" target="_blank" href="https://tool.xyjzy.com/ds/">
           </a>
           <a title="小妖精资源" target="_blank" href="https://www.xyjzy.com.com/">
             <img class="w-8" src="@/assets/images/footer/blog.svg" />
